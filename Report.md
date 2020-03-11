@@ -4,6 +4,10 @@
 
 ## News Headlines Sentiment
 
+![news_BC](Images/News_Bitcoin.png)
+
+![news_ETH](Images/News_Ethereum.png)
+
 ### Questions:
 
 Q: Which coin had the highest mean positive score?
