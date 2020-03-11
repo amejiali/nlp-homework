@@ -1,5 +1,7 @@
 # Crypto Currencies
 
+[Main Notebook](crypto_sentiment.ipynb)
+
 ## News Headlines Sentiment
 
 ### Questions:
